@@ -22,3 +22,5 @@ Blackboard Learn은 교수학습개발센터\(종합강의동 213호\)에서 지
 
 
 
+[![](/assets/by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ko)
+
