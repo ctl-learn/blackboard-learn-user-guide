@@ -10,7 +10,7 @@
 
 Blackboard Learn은 역할에 따라 기능 활용법이 다릅니다아래의 역할을 선택하여 주세요.
 
-학습자  교수자
+![](/assets/student.png) ![](/assets/professor.png)
 
 ## 많이 찾는 기능
 
