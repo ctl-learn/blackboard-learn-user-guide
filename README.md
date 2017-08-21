@@ -22,5 +22,6 @@ Blackboard Learn은 교수학습개발센터\(종합강의동 213호\)에서 지
 
 
 
-[![](/assets/by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ko)
+## 라이센스
+Blackboard Learn 활용 가이드는 CCL에 따릅니다. 자세한 사항은 [![](/assets/by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ko) 을 참고하세요.
 
