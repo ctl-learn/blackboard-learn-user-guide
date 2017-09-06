@@ -18,7 +18,7 @@ Blackboard Learn은 역할에 따라 기능 활용법이 다릅니다아래의 �
 
 Blackboard Learn은 교수학습개발센터\(종합강의동 213호\)에서 지원하고 있으며, 이용중에 어려움이 있으시다면 언제든지 방문 또는 031-229-8475로 연락하여 주시기 바랍니다.
 
-* e-learning@suwon.ac.kr
+* lms@suwon.ac.kr
 
 
 
