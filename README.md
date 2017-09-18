@@ -1,3 +1,8 @@
+---
+plugins:
+  - youtube
+---
+
 # ![](/assets/logo.png) {#welcome}
 
 ###### Follow the English Guide / 中国导游
