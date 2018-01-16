@@ -16,7 +16,8 @@
     * aaa
 * [학습자](d559-c2b5-c790/c2dc-c791-d558-ae30-c55e-c11c.md)
   * [시작하기 앞서](d559-c2b5-c790/c2dc-c791-d558-ae30-c55e-c11c.md)
-    * [이메일 설정과 앱 받기](d559-c2b5-c790/c2dc-c791-d558-ae30-c55e-c11c/c774-ba54-c77c-c124-c815-acfc-c571-bc1b-ae30.md)
+  * [Part 1: 톺아보기](d559-c2b5-c790/part-1-d1ba-c544-bcf4-ae30.md)
+    * [이메일 설정과 앱 받기](d559-c2b5-c790/part-1-d1ba-c544-bcf4-ae30/c774-ba54-c77c-c124-c815-acfc-c571-bc1b-ae30.md)
   * 과제 올리기
   * 모바일 앱 활용
 
