@@ -18,6 +18,10 @@
   * [시작하기 앞서](d559-c2b5-c790/c2dc-c791-d558-ae30-c55e-c11c.md)
   * [Part 1: 톺아보기](d559-c2b5-c790/part-1-d1ba-c544-bcf4-ae30.md)
     * [이메일 설정과 앱 받기](d559-c2b5-c790/part-1-d1ba-c544-bcf4-ae30/c774-ba54-c77c-c124-c815-acfc-c571-bc1b-ae30.md)
-  * 과제 올리기
+  * [Part 2: 친해지기](d559-c2b5-c790/part-2-ce5c-d574-c9c0-ae30.md)
+    * ㅁㅁ
   * 모바일 앱 활용
+  * 과제 올리기
+  * [Part 3: 이용하기](d559-c2b5-c790/part-3-c774-c6a9-d558-ae30.md)
+    * aa
 
