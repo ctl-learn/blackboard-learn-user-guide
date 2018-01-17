@@ -18,7 +18,7 @@
   * [시작하기 앞서](d559-c2b5-c790/c2dc-c791-d558-ae30-c55e-c11c.md)
   * [Part 1: 톺아보기](d559-c2b5-c790/part-1-d1ba-c544-bcf4-ae30/c774-ba54-c77c5d-b9e8-cc98-c74c-d560-c77c.md)
     * [\[이메일\] 맨 처음 할 일](d559-c2b5-c790/part-1-d1ba-c544-bcf4-ae30/c774-ba54-c77c5d-b9e8-cc98-c74c-d560-c77c.md)
-    * \[모바일\] 앱 받기
+    * [\[모바일\] 앱 받기](d559-c2b5-c790/part-1-d1ba-c544-bcf4-ae30/baa8-bc14-c77c5d-c571-bc1b-ae30.md)
     * \[시작\] 블랙보드 접속하기
   * [Part 2: 친해지기](d559-c2b5-c790/part-2-ce5c-d574-c9c0-ae30/d654-ba745d-b9c8-c774-d398-c774-c9c0-ad6c-c131.md)
     * [\[화면\] 마이페이지 구성](d559-c2b5-c790/part-2-ce5c-d574-c9c0-ae30/d654-ba745d-b9c8-c774-d398-c774-c9c0-ad6c-c131.md)
