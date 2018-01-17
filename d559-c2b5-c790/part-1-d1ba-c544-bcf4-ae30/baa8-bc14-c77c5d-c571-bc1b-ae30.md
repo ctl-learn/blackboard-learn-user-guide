@@ -11,10 +11,8 @@
 #### 훨씬, 시간을 효율적으로 이용하고 아낄 수 있을거에요.
 
 ![](/assets/학습자가이드-모바일-슬라이드3.PNG)
-#### 전용 모바일 앱으로 블랙보드를 경험해보세요. 
+#### 전용 모바일 앱으로 블랙보드 앱을 다운로드 하세요. 
 ![](/assets/play_store.png) ![](/assets/app_store.png)
-
-<img src="/assets/app_store.png" height="70px" />
 #### 블랙보드 앱을 이용하여 아래와 같은 활동을 경험할 수 있습니다.
   - 강의 공지사항
   - 과제 알림 및 제출(모바일에서)
@@ -23,8 +21,15 @@
   
   
   > 기능 개선은 지속적으로 이루어집니다.
+
   
-  
+![](/assets/학습자가이드-모바일-슬라이드4.PNG)      
+#### 간단한 강의 공지, 과제 알림을 이메일로 볼 수 있어요.
+![](/assets/학습자가이드-모바일-슬라이드5.PNG)
+#### 더욱 더 많은 활동과 경혐을 누리시려면 앱에 로그인하세요.   
+
+<iframe width="500" height="315" src="https://www.youtube.com/embed/E2QXqFaKuTg?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 #### 저희 이러닝지원팀은 학습자분들께서 모바일 사용자 경험을 최대로 누릴 수 있도록 지속적인 강의 콘텐츠 최적화를 진행하고 있습니다.
 
