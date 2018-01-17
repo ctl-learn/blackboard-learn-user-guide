@@ -12,7 +12,7 @@
 
 ![](/assets/학습자가이드-모바일-슬라이드3.PNG)
 #### 전용 모바일 앱으로 블랙보드 앱을 다운로드 하세요. 
-![](/assets/play_store.png) ![](/assets/app_store.png)
+[![](/assets/play_store.png)](https://play.google.com/store/apps/details?id=com.blackboard.android.bbstudent) [![](/assets/app_store.png)](https://itunes.apple.com/kr/app/blackboard/id950424861?mt=8)
 #### 블랙보드 앱을 이용하여 아래와 같은 활동을 경험할 수 있습니다.
   - 강의 공지사항
   - 과제 알림 및 제출(모바일에서)
