@@ -28,7 +28,7 @@
 ![](/assets/학습자가이드-모바일-슬라이드5.PNG)
 #### 더욱 더 많은 활동과 경혐을 누리시려면 앱에 로그인하세요.   
 
-<iframe width="500" height="315" src="https://www.youtube.com/embed/E2QXqFaKuTg?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/E2QXqFaKuTg?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 #### 저희 이러닝지원팀은 학습자분들께서 모바일 사용자 경험을 최대로 누릴 수 있도록 지속적인 강의 콘텐츠 최적화를 진행하고 있습니다.
